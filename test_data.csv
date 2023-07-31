@@ -1,0 +1,10 @@
+Company,TypeName,Ram,Weight,Touchscreen,Ips,ppi,Cpu brand,HDD,SSD,Gpu brand,os
+Apple,Ultrabook,8,1.37,0,1,226.9830047,Intel Core i5,,128 SSD,Intel,Mac
+Apple,Ultrabook,8,1.34,0,0,127.6779401,Intel Core i5,,,Intel,Mac
+HP,Notebook,8,1.86,0,0,141.2119981,Intel Core i5,,256 SSD,Intel,Others/No OS/Linux
+Apple,Ultrabook,16,1.83,0,1,220.5346239,Intel Core i7,,512 SSD,AMD,Mac
+Apple,Ultrabook,8,1.37,0,1,226.9830047,Intel Core i5,,256 SSD,Intel,Mac
+Acer,Notebook,4,2.1,0,0,100.4546699,AMD Processor,500 HDD,,AMD,Windows
+Apple,Ultrabook,16,2.04,0,1,220.5346239,Intel Core i7,,,Intel,Mac
+Apple,Ultrabook,8,1.34,0,0,127.6779401,Intel Core i5,,,Intel,Mac
+Asus,Ultrabook,16,1.3,0,0,157.3505121,Intel Core i7,,512 SSD,Nvidia,Windows
